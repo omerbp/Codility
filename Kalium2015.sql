@@ -16,6 +16,10 @@ where not exists (
 				)
 order by s_out.l asc;
 
+
+
+
+
 select (
 			select IFNULL(sum(b-a),0)
 			from noncont
@@ -28,8 +32,8 @@ select (
 			and (t1.b>=t2.a)
 			and (t1.a<>t2.a or t1.b<>t2.b)
 			and t2.a = (select min(t3.a)
-						from noncont t3
-						where t3.a>=t1.a
-						and (t3.a<>t1.a or t3.b<>t1.b)
-						)
+                  from noncont t3
+                  where t3.a>=t1.a
+                  and (t3.a<>t1.a or t3.b<>t1.b)
+                  )
 		);
