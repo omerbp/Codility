@@ -15,7 +15,7 @@ https://codility.com/cert/view/certEE2P8A-QR87SQ9F3DQEPA3K
 
 This is Codility's Kalium 2015 Challenge.
 
-It was a SQLite only challenge, therefore I used SQL :)
+It was a SQLite only challenge, therefore I used SQLite :)
 
 Check out my certificate at:
 
