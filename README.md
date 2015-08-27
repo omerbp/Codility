@@ -1,4 +1,14 @@
 # Codility Challenges
+-----------------------------
+27/08/2015
+
+Codility Calcium 2015  was a Tough one... 
+
+I added some explanations and a few simple tests...
+
+Check out my certificate at:
+
+https://codility.com/cert/view/cert9ZU5JV-B67SEMQ4RT8ASUJD
 
 -----------------------------
 03/05/2015
