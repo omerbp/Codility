@@ -2,9 +2,8 @@
 -----------------------------
 27/08/2015
 
-Codility Calcium 2015  was a tough one... :)
-
-I added some explanations and a few simple tests...
+Calcium was a tough one... :)
+I added my python solution to Codility Calcium 2015. Some explanation and few test cases are also attached.
 
 Check out my certificate at:
 
