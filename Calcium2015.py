@@ -81,5 +81,10 @@ sroch = ([0,1,2,3,4],[1,2,3,4,5],1) # 2
 simple = ([0,0,0,3],[1,2,3,4],2) # 1
 simple2 = ([0,0,1,2,2,5],[1,2,3,4,5,6],2) #2
 simple3 = ([0,0,1,1,2,2],[1,2,3,4,5,6],2) #2
-print solution(*simple3)
+
+assert solution(*test) == 2
+assert solution(*sroch) == 2
+assert solution(*simple) == 1
+assert solution(*simple2) == 2
+assert solution(*simple3) == 2
 
