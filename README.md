@@ -2,7 +2,7 @@
 -----------------------------
 27/08/2015
 
-Codility Calcium 2015  was a Tough one... 
+Codility Calcium 2015  was a tough one... :)
 
 I added some explanations and a few simple tests...
 
